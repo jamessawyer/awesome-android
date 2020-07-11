@@ -14,7 +14,7 @@
 
 4. [Carson带你了解Android](https://juejin.im/user/58d4d9781b69e6006ba65edc)
 
-   <img src="./公众号/carson.jpeg" width="100px" height="100px" />
+   <img src="./公众号/Carson.jpeg" width="100px" height="100px" />
 
 5. [BlankJ 大神](https://blankj.com/)
 
